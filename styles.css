@@ -1,0 +1,38 @@
+img{
+    max-width: 100%;
+        display: block;
+        height: 100%;
+        margin: 0 auto
+    } 
+    
+    
+    body{
+      background-color: #ccc6c4;
+      padding: 50px;
+      font-family: arial
+    }
+    #img-caption{
+      text-align: center;
+    }
+    
+    h1, h2, p{
+      text-align: center
+    }
+     
+    
+     .txt{
+       padding: 15px
+     }
+    
+    .box{
+      background: white;
+    
+    }
+    
+    .txt{
+      text-align: center;
+    }
+    
+    ul li{
+    list-style: none;
+    }
